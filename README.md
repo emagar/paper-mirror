@@ -1,6 +1,6 @@
 Repository storing copies of some ITAM work permanently
 
-```R
+```latex
 @article{rodriguez.doval.2006,
   author  = {Rodr\'iguez Doval, Fernando},
   title   = {?`Pragmatismo o principios? Una aproximaci\'on a las actitudes y posturas estrat\'egicas de los panistas},
