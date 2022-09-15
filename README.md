@@ -1,4 +1,6 @@
-Repository storing copies of some ITAM work permanently
+Repository storing permanent copies of some ITAM academic works
+
+-   [Fernando Rodríguez Doval (2006)](https://github.com/emagar/paper-mirror/blob/master/rodriguez-doval-2006gcp.pdf)
 
 ```latex
 @article{rodriguez.doval.2006,
