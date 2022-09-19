@@ -1,5 +1,19 @@
 Repository storing permanent copies of some ITAM academic works
 
+-   [Eric Magar (2009)](https://github.com/emagar/paper-mirror/blob/master/magar2009gcp.pdf)
+
+```latex
+@article{magar.2009.gcp,
+    author = {Magar, Eric},
+    title = {El inmovilismo democr\'atico: un modelo de relaciones ejecutivo-legislativo en reg\'imenes con poderes separados},
+    journal = {La Gaceta de Ciencia Pol\'itica},
+    volume = 6,
+    number = {1},
+    pages = {11--25},
+    year = 2009,
+}
+```
+
 -   [Fernando Rodríguez Doval (2006)](https://github.com/emagar/paper-mirror/blob/master/rodriguez-doval-2006gcp.pdf)
 
 ```latex
