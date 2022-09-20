@@ -4,13 +4,13 @@ Repository storing permanent copies of some ITAM academic works
 
 ```latex
 @article{magar.2009.gcp,
-    author = {Magar, Eric},
-    title = {El inmovilismo democr\'atico: un modelo de relaciones ejecutivo-legislativo en reg\'imenes con poderes separados},
+    author  = {Magar, Eric},
+    title   = {El inmovilismo democr\'atico: un modelo de relaciones ejecutivo-legislativo en reg\'imenes con poderes separados},
     journal = {La Gaceta de Ciencia Pol\'itica},
-    volume = 6,
-    number = {1},
-    pages = {11--25},
-    year = 2009,
+    volume  = {6},
+    number  = {1},
+    pages   = {11--25},
+    year    = {2009},
 }
 ```
 
