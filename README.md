@@ -1,5 +1,17 @@
 Repository storing permanent copies of some ITAM academic works
 
+-   [Juan Cristóbal Gil Ramírez (2010)](https://github.com/emagar/paper-mirror/blob/master/gil.sistemaElectoralCamarasAyuntamientosMexico2010.pdf)
+
+```bibtex
+@phdthesis{gil.2010,
+    author = {Gil Ram\'irez, Juan Crist\'obal},
+    title = {El sistema electoral en las c\'amaras y ayuntamientos de M\'exico},
+    school = {Instituto Tecnol\'ogico Aut\'onomo de M\'exico},
+    type = {BA. thesis},
+    year = 2010,
+}
+```
+
 -   [Eric Magar (2009)](https://github.com/emagar/paper-mirror/blob/master/magar2009gcp.pdf)
 
 ```bibtex
