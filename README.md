@@ -1,5 +1,17 @@
 Repository storing permanent copies of some ITAM academic works
 
+-   [Rodrigo Elizarrarás (2002)](https://github.com/emagar/paper-mirror/blob/master/elizarraras-Uyc2002itam.pdf)
+
+```bibtex
+@phdthesis{elizarraras.2002,
+    author = {Elizarrar\'as Alvarez, Rodrigo},
+    title = {Gobernabilidad y autonom\'ia ind\'igena: motivos y efectos en el reconocimiento de los usos y costumbres en Oaxaca},
+    school = {Instituto Tecnol\'ogico Aut\'onomo de M\'exico},
+    type = {BA. thesis},
+    year = 2002,
+}
+```
+
 -   [Juan Cristóbal Gil Ramírez (2010)](https://github.com/emagar/paper-mirror/blob/master/gil.sistemaElectoralCamarasAyuntamientosMexico2010.pdf)
 
 ```bibtex
