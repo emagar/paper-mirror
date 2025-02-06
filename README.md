@@ -1,4 +1,4 @@
-Repository storing permanent copies of some ITAM academic works
+Repository storing permanent copies of some ITAM academic works (updated 2025-02-06)
 
 -   [Rodrigo Elizarrarás (2002)](https://github.com/emagar/paper-mirror/blob/master/elizarraras-Uyc2002itam.pdf)
 
