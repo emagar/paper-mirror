@@ -1,4 +1,4 @@
-Repository storing permanent copies of some ITAM academic works (updated 2025-02-06)
+Repository storing permanent copies of some ITAM academic works
 
 -   [Rodrigo Elizarrarás (2002)](https://github.com/emagar/paper-mirror/blob/master/elizarraras-Uyc2002itam.pdf)
 
@@ -38,7 +38,7 @@ Repository storing permanent copies of some ITAM academic works (updated 2025-02
 }
 ```
 
--   [Fernando Rodríguez Doval (2006)](https://github.com/emagar/paper-mirror/blob/master/rodriguez-doval-2006gcp.pdf)
+-   [Fernando Rodríguez Doval (2006)](https://github.com/emagar/paper-mirror/blob/master/fernando-rodriguez-doval-2006gcp.pdf)
 
 ```bibtex
 @article{rodriguez.doval.2006,
